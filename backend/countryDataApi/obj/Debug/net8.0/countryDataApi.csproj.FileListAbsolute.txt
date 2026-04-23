@@ -1,0 +1,115 @@
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\appsettings.Development.json
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\appsettings.json
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.staticwebassets.endpoints.json
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.exe
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.deps.json
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.runtimeconfig.json
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.dll
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.pdb
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.csproj.AssemblyReference.cache
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.AssemblyInfoInputs.cache
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.AssemblyInfo.cs
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.csproj.CoreCompileInputs.cache
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.MvcApplicationPartsAssemblyInfo.cs
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.MvcApplicationPartsAssemblyInfo.cache
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\scopedcss\bundle\countryDataApi.styles.css
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryD.F05B467B.Up2Date
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.dll
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\refint\countryDataApi.dll
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.pdb
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.genruntimeconfig.cache
+C:\dot net\CountryProject\backend\countryDataApi\obj\Debug\net8.0\ref\countryDataApi.dll
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Npgsql.dll
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Npgsql.RawPostgis.dll
+C:\dot net\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\appsettings.Development.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\appsettings.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.staticwebassets.endpoints.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.exe
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.deps.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.runtimeconfig.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.pdb
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Npgsql.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Npgsql.RawPostgis.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.csproj.AssemblyReference.cache
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.AssemblyInfoInputs.cache
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.AssemblyInfo.cs
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.csproj.CoreCompileInputs.cache
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.MvcApplicationPartsAssemblyInfo.cs
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.MvcApplicationPartsAssemblyInfo.cache
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\scopedcss\bundle\countryDataApi.styles.css
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryD.F05B467B.Up2Date
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\refint\countryDataApi.dll
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.pdb
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.genruntimeconfig.cache
+C:\pradeep project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\ref\countryDataApi.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\appsettings.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.staticwebassets.endpoints.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.exe
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.deps.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.runtimeconfig.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\countryDataApi.pdb
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Npgsql.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Npgsql.RawPostgis.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.csproj.AssemblyReference.cache
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.AssemblyInfoInputs.cache
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.AssemblyInfo.cs
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.csproj.CoreCompileInputs.cache
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\scopedcss\bundle\countryDataApi.styles.css
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryD.F05B467B.Up2Date
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\refint\countryDataApi.dll
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.pdb
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\countryDataApi.genruntimeconfig.cache
+D:\Projects\working project\working project\CountryProject\backend\countryDataApi\obj\Debug\net8.0\ref\countryDataApi.dll
