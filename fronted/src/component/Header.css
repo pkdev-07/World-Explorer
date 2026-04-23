@@ -1,0 +1,123 @@
+/* Sticky header */
+.header-container {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: linear-gradient(90deg, #4a90e2, #1e3a8a);
+    color: #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Light & Dark theme */
+  .header-container.light {
+    background: linear-gradient(90deg, #f9fafb, #e5e7eb);
+    color: #2b3945;
+  }
+  
+  .header-container.dark {
+    background: linear-gradient(90deg, #111827, #1f2937);
+    color: #f9fafb;
+  }
+  
+  /* Inner container */
+  .header-content {
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between; /* logo left, actions right */
+    align-items: center;
+    width: 100%;
+  }
+  
+  /* Logo left */
+  .logo a {
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s;
+  }
+  
+  .logo a:hover {
+    color: #ffd700;
+  }
+  
+  /* Right side actions */
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  /* Theme button */
+  .theme-button {
+    background-color: #facc15;
+    color: #111;
+    border: none;
+    padding: 0.6rem 1rem;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .theme-button:hover {
+    background-color: #eab308;
+    transform: translateY(-2px);
+  }
+  
+  /* Logout button */
+  .logout-button {
+    background-color: #e53e3e;
+    color: #fff;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .logout-button:hover {
+    background-color: #c53030;
+    transform: translateY(-2px);
+  }
+  
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .header-content {
+      flex-direction: column;
+      gap: 0.8rem;
+    }
+  
+    .header-actions {
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .theme-button,
+    .logout-button {
+      width: 100%;
+    }
+  }
+  
+
+  /* font changer drop down */
+
+  /* Font changer dropdown (theme-aware) */
+.header-actions select {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid var(--text-color); /* uses theme color */
+  background-color: var(--card-bg);    /* matches header/card background */
+  color: var(--text-color);            /* matches text color */
+  transition: all 0.3s ease;
+}
+
+.header-actions select:focus {
+  outline: none;
+  border-color: #2563eb; /* or any accent color */
+  box-shadow: 0 0 5px rgba(37, 99, 235, 0.3);
+}

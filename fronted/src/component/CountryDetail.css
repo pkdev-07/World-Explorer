@@ -1,0 +1,185 @@
+/* Minimalist variables - add to your global CSS if not already */
+:root {
+  --bg-color: #ffffff;
+  --card-bg: #f8f9fa; /* Light gray for minimalist feel */
+  --text-color: #333333;
+  --border-color: #e9ecef;
+  --accent-color: #007bff; /* Subtle blue for links/buttons */
+}
+
+/* Country details card - simplified minimalist layout */
+.country-detail-container {
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  padding: 2rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto 2rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Image column - centered and minimal */
+.country-images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-shrink: 0;
+  padding: 1rem 0;
+}
+
+.country-flag {
+  width: 250px; /* Reduced for minimalism */
+  height: auto;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.coat-of-arms {
+  width: 100px; /* Smaller for balance */
+  height: auto;
+  object-fit: contain;
+  opacity: 0.8; /* Slight fade for subtlety */
+}
+
+/* Text info - clean two-column layout */
+.country-detail-info {
+  display: flex;
+  flex: 1;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.info-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem; /* Slightly more breathing room */
+}
+
+.country-detail-info h1 {
+  margin: 0 0 1rem 0;
+  font-size: 2.5rem; /* Larger but clean */
+  font-weight: 300; /* Lighter weight for minimalism */
+  line-height: 1.2;
+}
+
+.country-detail-info p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.country-detail-info a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+.country-detail-info a:hover {
+  text-decoration: underline;
+}
+
+/* Neighbors - full width, minimal buttons */
+.neighbors {
+  flex-basis: 100%;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color); /* Subtle separator */
+}
+
+.neighbor-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.neighbor-button {
+  background: transparent;
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.neighbor-button:hover {
+  background-color: var(--accent-color);
+  color: white;
+  border-color: var(--accent-color);
+}
+
+/* Back button - minimalist top-left */
+.back-button {
+  background: transparent;
+  color: var(--text-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: color 0.2s ease;
+}
+
+.back-button:hover {
+  color: var(--accent-color);
+}
+
+/* Responsive - stack on mobile for better readability */
+@media (max-width: 768px) {
+  .country-detail-container {
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+    gap: 1.5rem;
+  }
+
+  .country-images {
+    width: 100%;
+    order: -1; /* Flag first on mobile */
+  }
+
+  .country-flag {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .country-detail-info {
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+  }
+
+  .info-column {
+    width: 100%;
+  }
+
+  .country-detail-info h1 {
+    font-size: 2rem;
+  }
+
+  .neighbor-list {
+    justify-content: center;
+  }
+}
+
+/* Dark mode support (optional, for accessibility) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #121212;
+    --card-bg: #1e1e1e;
+    --text-color: #e0e0e0;
+    --border-color: #333333;
+  }
+}

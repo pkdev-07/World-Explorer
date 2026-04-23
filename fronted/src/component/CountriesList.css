@@ -1,0 +1,99 @@
+/* -- */
+
+/* ===== Container ===== */
+.countries-container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: inherit;
+  }
+  
+  /* ===== Search input ===== */
+  .search-input {
+    width: 100%;
+    max-width: 350px;
+    padding: 0.6rem 1rem;
+    font-size: 1rem;
+    border: 1px solid var(--text-color); /* use theme */
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.3s ease;
+    margin-bottom: 2rem;
+    background-color: var(--bg-color);   /* theme */
+    color: var(--text-color);           /* theme */
+  }
+  
+  .search-input:focus {
+    border-color: #2563eb; /* blue-600 stays as highlight */
+    box-shadow: 0 0 8px rgba(37, 99, 235, 0.3);
+  }
+  
+  /* ===== Country list grid ===== */
+  .country-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 2rem;
+  }
+  
+  /* ===== Country card ===== */
+  .country-card {
+    background-color: var(--card-bg); /* theme */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .country-card:hover {
+    transform: translateY(-14px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  }
+  
+  /* ===== Flag image ===== */
+  .country-card img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-bottom: 1px solid var(--text-color); /* theme */
+  }
+  
+  /* ===== Card content ===== */
+  .country-card-content {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    background-color: var(--card-bg); /* theme */
+  }
+  
+  .country-card-content h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-color); /* theme */
+    transition: color 0.3s ease;
+  }
+  
+  .country-card:hover .country-card-content h3 {
+    color: #2563eb; /* blue-600 highlight */
+  }
+  
+  .country-card-content p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: var(--text-color); /* theme */
+  }
+  
+  /* ===== Responsive ===== */
+  @media (max-width: 600px) {
+    .search-input {
+      max-width: 100%;
+    }
+  
+    .country-card img {
+      height: 120px;
+    }
+  }
+  
